@@ -1,0 +1,21 @@
+The user enters the information, each student stores grade information in a vector
+Add the student’s first name and last name
+Add the assignments and their maximum points
+Enter the grade for the assignment Optionally
+The program asks if the user wants to add another assignment
+The program asks if the user wants to add another student
+A complete report is generated
+
+Input:
+
+Name of the student: Ricardo
+Last name of the student: Mottet
+Assignment name: Quiz
+Max grade: 100
+Grade of the student: 90
+
+Output:
+
+LastName,FirstName,Quiz
+Mottet,Ricardo,90
+
